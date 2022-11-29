@@ -4,8 +4,9 @@
 
 In this project, the goal is to utilize the skills learned through Codecademy and apply machine learning techniques to a data set. The following questions will be addressed in this study:
 1. Can the open answers predict the sex of the user?
-2. Can a user's astrological sign be predicted from other features of the user?
-3. Bonus: is there a wage difference between the male and female users?
+2. Can age, height and income predict a user's sex?
+3. Can a user's astrological sign be predicted from other features of the user?
+4. Bonus: is there a wage difference between the male and female users?
 
 ### Data
 
